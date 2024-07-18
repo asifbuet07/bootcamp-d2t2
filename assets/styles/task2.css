@@ -1,0 +1,46 @@
+.products {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.watch {
+  width: 350px;
+  padding: 15px;
+  background-color: aqua;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shoe {
+  width: 350px;
+  padding: 15px;
+  background-color: blue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bag {
+  width: 350px;
+  padding: 15px;
+  background-color: green;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.product-icon {
+  width: 100px;
+  height: 100px;
+}
